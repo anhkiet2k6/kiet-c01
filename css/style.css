@@ -23,3 +23,9 @@ body {
     display: flex;
     justify-content: space-between;
   }
+
+  table,tr,th,td {
+    border: 1px solid black;
+  }
+
+  
